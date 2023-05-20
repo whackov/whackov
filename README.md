@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div>
  <p>
-I am passionate about cybersecurity, capable of developing a risk assessment and implementing cybersecurity controls and operations centers. Development Expert; DBA, Network and Communications Administrator, Information Security and Cybersecurity Specialist, Consultant, ISO 27001 Internal Certified, Cybersecurity University Professor and CIO in some large companies in my country . Fast learner, hard worker and team player who is proficient in an array of scripting languages and security information and cybersecurity tools.
+I am passionate about cybersecurity, capable of developing a risk assessment and implementing cybersecurity controls and operations centers. Development Expert; DBA, Network and Communications Administrator, Information Security and Cybersecurity Specialist, Consultant, ISO 27001 Internal Certified, Cybersecurity University Professor and CIO/CISO in some large companies in my country . Fast learner, hard worker and team player who is proficient in an array of scripting languages and security information and cybersecurity tools.
 
 I have an excellent ability to turn requirements into high-value solutions.
 </p>
