@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm [W Hack](https://github.com/whackov)
 > Cybersecurity passionate!
-> Computer Engineer, Computer Security Specialist and Master's degree candidate in ICT.
+> Bachelor's degree Computer Engineer, Computer Security Specialist and Master's degree in ICT.
 
 <img src="https://komarev.com/ghpvc/?username=whackov" alt="whackov" />
 
